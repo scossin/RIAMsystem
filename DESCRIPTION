@@ -1,0 +1,12 @@
+Package: RIAMsystem
+Type: Package
+Title: RIAMsystem, a concept recognition system.
+Version: 0.1.0
+Date: 2019-03-17
+Authors@R: c(person("Sebastien", "Cossin", role=c("aut", "cre"), email="sebastien.cossin@u-bordeaux.fr"))
+Maintainer: Sebastien Cossin <sebastien.cossin@u-bordeaux.fr>
+Description: A semantic annotation tool to detect concepts in textual content using terms from a controlled vocabulary. 
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.0

@@ -1,0 +1,2 @@
+Source code of the Java program called by R. 
+To compile this project to a jar with dependencies :  mvn clean compile assembly:single
